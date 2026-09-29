@@ -1,2 +1,2 @@
-¿que necesito aprender primero?
-creo que los fundamentos de redes y conexiones serian lo apropiado para comenzar con este proyecto
+que me gustaria contruir con ella?
+un homelab o selfhosted server en mi casa en alguna computadora vieja que pueda utilizar para almacenar informacion y datos y poder acceder a ellos desde cualquier otro dispositivo.
