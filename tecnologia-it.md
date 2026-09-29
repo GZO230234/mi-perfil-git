@@ -1,2 +1,2 @@
-¿Por que me interesa?
-Creo que seria interesante poder manejar una nube desde mi casa.
+¿que necesito aprender primero?
+creo que los fundamentos de redes y conexiones serian lo apropiado para comenzar con este proyecto
