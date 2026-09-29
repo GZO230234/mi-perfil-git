@@ -1,2 +1,2 @@
-que me gustaria contruir con ella?
-un homelab o selfhosted server en mi casa en alguna computadora vieja que pueda utilizar para almacenar informacion y datos y poder acceder a ellos desde cualquier otro dispositivo.
+que tecnologia es?
+comunicacion de redes y manejo de homelab o slefhosting
